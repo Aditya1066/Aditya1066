@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aditya1066
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on bot
 - 📫 How to reach me email
 
